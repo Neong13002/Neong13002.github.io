@@ -5,12 +5,11 @@
     color: #ffffff;
     list-style: none;
     text-decoration: none; 
-    font-family: 'Arial-Black'; 
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: #fbf8fb;
-         
+    background-color: #000000;
 }
 
 
