@@ -20,8 +20,13 @@ iframe {
     border-style:none;
 }
 
+
+.game{
+    width: 80vH;
+    height: 40vH;
+    }
 /* Portrait */
-@media screen and (orientation:portrait) {
+/*@media screen and (orientation:portrait) {
         .game{
           width: 70vW;
           height: 120vW;
@@ -37,12 +42,13 @@ iframe {
 }
       
 /* Landscape */
-@media screen and (orientation:landscape) {
+/* @media screen and (orientation:landscape) {
       .game{
           width: 80vH;
           height: 40vH;
           }
-        
 }
+
+*/
 
 {}
