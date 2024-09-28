@@ -9,7 +9,6 @@
 }
 
 body {
-
     padding: 100px;
     background-color: #000000;
 }
@@ -24,6 +23,7 @@ iframe {
 .game{
     width: 80vH;
     height: 40vH;
+    margin-bottom: 2VH ;
     }
 /* Portrait */
 /*@media screen and (orientation:portrait) {
