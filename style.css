@@ -39,8 +39,8 @@ iframe {
 /* Landscape */
 @media screen and (orientation:landscape) {
       .game{
-          width: 45vH;
-          height: 80vH;
+          width: 80vH;
+          height: 40vH;
           }
         
 }
