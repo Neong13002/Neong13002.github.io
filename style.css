@@ -19,31 +19,11 @@ iframe {
     border-style:none;
 }
 
-
-      /* Portrait */
-      @media screen and (orientation:portrait) {
-        .game{
-          width: 70vW;
-          height: 120vW;
-          
-          }
-          .popup-image { 
-            max-width: 90vW;
-            height: auto;
-            padding-top:5vW;
-        }
-        
-        
-      }
-      
-/* Landscape */
-@media screen and (orientation:landscape) {
-      .game{
-          width: 45vH;
-          height: 80vH;
-          }
-        
-      }
+.game{
+    width: 70vW;
+    height: 120vW;
+    
+    }
 
 
 {}
