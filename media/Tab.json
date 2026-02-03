@@ -1,5 +1,19 @@
-[
-  ["ALPHA WANN x VENDÉE GLOBE", 10],
-  ["Implaccable - je voulais être un moneymaker", 5],
-  ["TH - AUDI RS OCHO EDIT (PROD.JAYJAY)", 8]
-]
+{
+	"SONS": [
+		{
+			"title": "ALPHA-WANN-x-VENDEE-GLOBE",
+			"authors": ["Giada De Laurentiis"]
+		},
+		
+		{
+			"title": "Implaccable-je-voulais-etre-un-moneymaker",
+			"authors": ["J K. Rowling"]
+		},
+		
+		{
+			"title": "TH-AUDI-RS-OCHO-EDIT-_PROD.JAYJAY_",
+			"authors": ["James McGovern"]
+
+		}
+	]
+}
